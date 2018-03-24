@@ -1,0 +1,10 @@
+name: pokemon-mini-icon-annotation-tool
+
+channels:
+    - conda-forge
+    - defaults
+
+dependencies:
+    - python=3.6
+    - pyqt=5.6.0
+    - opencv=3.4.1

@@ -94,3 +94,5 @@ ENV/
 
 data/*
 !data/.gitkeep
+
+preprocessing/pokedex-mini.js
